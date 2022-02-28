@@ -1,0 +1,17 @@
+{
+  "name": "flightbookings",
+  "version": "0.0.0",
+  "private": true,
+  "engines": {
+    "node": "14.17.5"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.1",
+    "mongoose": "^5.4.1",
+    "request": "^2.88.0",
+    "sinon": "^7.2.2"
+  }
+}
